@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-image: url(https://img.freepik.com/vetores-premium/fundo-de-unicornio-arco-iris-de-fantasia-holografica-com-nuvens-no-ceu_501173-671.jpg);
+    background-size: cover;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+
+
+.vermelho{
+    color: #8B0000;
+    margin-top: 80px;
+    font-weight: normal;
+}
+
+.azul{
+    color: #006789;
+    margin-top: 40px;
+    font-weight: normal;
+}
+
+.amarelo{
+    color: #FFFF00;
+    margin-top: 40px;
+    font-weight: normal;
+}
+
+.roxo{
+    color:#A020F0;
+    margin-top: 40px;
+    font-weight: normal;
+}
+
+.rodape{
+    font-size: 20px;
+    margin-top: 170px;
+    /*font-weight: normal;*/
+}
